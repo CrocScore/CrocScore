@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrocScore
-- 👀 I’m interested in learning both Roblox scripting and web design
-- 🌱 I’m currently learning Roblox Scripting
+- 👀 I’m interested in learning Rust HTTP Networking and Rust Web development
+- 🌱 I’m currently learning Rust
 
 <!---
 CrocScore/CrocScore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
